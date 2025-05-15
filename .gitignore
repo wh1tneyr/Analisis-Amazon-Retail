@@ -172,3 +172,17 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# ignorar carpetas
+data/processed*
+data/raw*
+notebooks/*
+outputs/graphics*
+scripts/*
+
+# ignorar carpeta excepto archivos .gitkeep
+!data/processed/.gitkeep
+!data/raw/.gitkeep
+!notebooks/.gitkeep
+!outputs/graphics/.gitkeep
+!scripts/.gitkeep

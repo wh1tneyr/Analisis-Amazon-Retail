@@ -174,10 +174,10 @@ cython_debug/
 .pypirc
 
 # ignorar carpetas
-data/processed*
-data/raw*
+data/processed/*
+data/raw/*
 notebooks/*
-outputs/graphics*
+outputs/graphics/*
 scripts/*
 
 # ignorar carpeta excepto archivos .gitkeep

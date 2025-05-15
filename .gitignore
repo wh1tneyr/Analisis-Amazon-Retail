@@ -181,6 +181,7 @@ outputs/graphics*
 scripts/*
 
 # ignorar carpeta excepto archivos .gitkeep
+|data/.gitignore
 !data/processed/.gitkeep
 !data/raw/.gitkeep
 !notebooks/.gitkeep

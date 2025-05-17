@@ -177,7 +177,6 @@ cython_debug/
 data/documentation/*
 data/processed/*
 data/raw/*
-notebooks/*
 outputs/graphics/*
 outputs/results/*
 scripts/*
@@ -186,7 +185,6 @@ scripts/*
 !data/documentation/.gitkeep
 !data/processed/.gitkeep
 !data/raw/.gitkeep
-!notebooks/.gitkeep
 !outputs/graphics/.gitkeep
 !outputs/results/.gitkeep
 !scripts/.gitkeep

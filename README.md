@@ -52,7 +52,7 @@ El presente análisis tiene como finalidad explorar y comprender el comportamien
 
 Abre notebooks/Analisis_Amazon_Retail.ipynb con Jupyter Notebook o VS Code.
 
-## 📌 Autor
+## 📌 Autora
 
 👩‍💻 Whitney Rios
 📧 rioswhit@gmail.com
